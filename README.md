@@ -9,6 +9,7 @@ PureScript packages maintained currently by oreshinya.
 A practical type-safe UI library for PureScript. No npm dependencies required.
 
 If you are looking for something instead of Halogen or react-basic, I recommend it.
+
 It has examples and guide already, so you can start to learn it.
 
 ### [purescript-freedom-router](https://github.com/purescript-freedom/purescript-freedom-router)
@@ -48,6 +49,7 @@ Subscription to get current time for purescript-freedom.
 An opinionated UI state management utilities for purescript-freedom.
 
 If you want to manage complex application state, it may help you.
+
 It has guide, so you can know an idea of purescript-identy.
 
 ## Backend

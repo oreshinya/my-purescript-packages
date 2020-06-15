@@ -69,7 +69,7 @@ Subscription to get current time for purescript-freedom.
 
 ### [purescript-identy](https://github.com/oreshinya/purescript-identy)
 
-An opinionated UI state management utilities for purescript-freedom.
+An opinionated UI state management utilities.
 
 If you want to manage complex application state, it may help you.
 

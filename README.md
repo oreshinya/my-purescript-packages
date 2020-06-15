@@ -4,11 +4,34 @@ PureScript packages maintained currently by oreshinya.
 
 ## Frontend
 
+### [purescript-grain](https://github.com/purescript-grain/purescript-grain)
+
+A UI library with easy and flexible state management inspired by [Recoil.js](https://recoiljs.org/) and [React Hooks](https://reactjs.org/docs/hooks-intro.html). No npm dependencies required.
+
+If you are looking for something instead of Halogen, react-basic and so on, I recommend it.
+
+It has examples and guide already, so you can start to learn it.
+
+### [purescript-grain-router](https://github.com/purescript-grain/purescript-grain-router)
+
+Router for [purescript-grain](https://github.com/purescript-grain/purescript-grain).
+
+### [purescript-grain-portal](https://github.com/purescript-grain/purescript-grain-portal)
+
+A way to render children into a node that exists outside the DOM hierarchy of the parent node.
+
+It helps you implementing UI like modal, dropdown, and so on.
+
+### [purescript-grain-virtualized](https://github.com/purescript-grain/purescript-grain-virtualized)
+
+The virtual list to render huge list efficiently for [purescript-grain](https://github.com/purescript-grain/purescript-grain).
+
+If you encount performance problem of huge VDOM, you should use this.
+
+
 ### [purescript-freedom](https://github.com/purescript-freedom/purescript-freedom)
 
 A practical type-safe UI library for PureScript. No npm dependencies required.
-
-If you are looking for something instead of Halogen or react-basic, I recommend it.
 
 It has examples and guide already, so you can start to learn it.
 

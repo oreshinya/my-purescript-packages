@@ -16,12 +16,6 @@ It has examples and guide already, so you can start to learn it.
 
 Router for [purescript-grain](https://github.com/purescript-grain/purescript-grain).
 
-### [purescript-grain-portal](https://github.com/purescript-grain/purescript-grain-portal)
-
-A way to render children into a node that exists outside the DOM hierarchy of the parent node.
-
-It helps you implementing UI like modal, dropdown, and so on.
-
 ### [purescript-grain-virtualized](https://github.com/purescript-grain/purescript-grain-virtualized)
 
 The virtual list to render huge list efficiently for [purescript-grain](https://github.com/purescript-grain/purescript-grain).

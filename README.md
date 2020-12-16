@@ -169,6 +169,10 @@ Simple JWT(JSON Web Token) encoder and decoder for PureScript.
 
 ## Others
 
+### [purescript-simple-ulid](https://github.com/oreshinya/purescript-simple-ulid)
+
+A implementation of Universally Unique Lexicographically Sortable Identifier written with PureScript.
+
 ### [purescript-simple-emitter](https://github.com/oreshinya/purescript-simple-emitter)
 
 PureScript simple event emitter.

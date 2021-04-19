@@ -22,45 +22,6 @@ The virtual list to render huge list efficiently for [purescript-grain](https://
 
 If you encount performance problem of huge VDOM, you should use this.
 
-
-### [purescript-freedom](https://github.com/purescript-freedom/purescript-freedom)
-
-A practical type-safe UI library for PureScript. No npm dependencies required.
-
-It has examples and guide already, so you can start to learn it.
-
-### [purescript-freedom-router](https://github.com/purescript-freedom/purescript-freedom-router)
-
-Router subscription for purescript-freedom.
-
-### [purescript-freedom-portal](https://github.com/purescript-freedom/purescript-freedom-portal)
-
-A way to render children into a node that exists outside the DOM hierarchy of the parent node.
-
-It helps you implementing UI like modal, dropdown, and so on.
-
-### [purescript-freedom-transition](https://github.com/purescript-freedom/purescript-freedom-transition)
-
-An easy way to perform animations when a purescript-freedom view enters or leaves the DOM.
-
-It helps you implementing animations when enters/leaves of elements.
-
-### [purescript-freedom-virtualized](https://github.com/purescript-freedom/purescript-freedom-virtualized)
-
-The virtual list to render huge list efficiently for purescript-freedom.
-
-If you encount performance problem of huge VDOM, you should use this.
-
-### [purescript-freedom-window-resize](https://github.com/purescript-freedom/purescript-freedom-window-resize)
-
-Subscription of resizing window for purescript-freedom.
-
-It's for observing to resize window.
-
-### [purescript-freedom-now](https://github.com/purescript-freedom/purescript-freedom-now)
-
-Subscription to get current time for purescript-freedom.
-
 ### [purescript-identy](https://github.com/oreshinya/purescript-identy)
 
 An opinionated UI state management utilities.
